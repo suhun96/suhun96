@@ -7,5 +7,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
+
