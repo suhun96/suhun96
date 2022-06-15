@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text='안녕하세요'%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=Shoot%20for%20the%20Moon%20🌕&fontSize=60&desc=At%20least,%20it'll%20remain%20as%20a%20Star✨&descSize=30&descAlignY=65&fontoColor=white)
