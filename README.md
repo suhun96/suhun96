@@ -7,7 +7,5 @@
 <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
 
 ## 🖇 Team Collaboration Tool
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"> /<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-<img src="https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=Trello&logoColor=white">
-<img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=Trello&logoColor=white">
+ <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white">
